@@ -1,2 +1,3 @@
-<img width="5582" height="2692" alt="GermanHub drawio" src="https://github.com/user-attachments/assets/5bc49bb0-df52-4df3-94a0-29cf3ce1e69c" />
-# Roadmap-Deuscht_Hub version 0.1
+<img width="4991" height="2522" alt="GermanHub drawio (1)" src="https://github.com/user-attachments/assets/1e49ea18-9c2e-422b-97d4-9f41c36854fc" />
+
+# Roadmap-Deuscht_Hub version 0.2
